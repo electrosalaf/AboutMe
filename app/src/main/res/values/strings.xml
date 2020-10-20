@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ibrahim Lawal</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">Hi, my name is Ibrahim
+        \n\nI am an Android Developer.
+        \n\nI specialized in using kotlin programming language to build responsive mobile solutions.
+        \n\nMy other interest spans across technologies like Cyber-Security, Artificial Intelligence and BlockChain Engineering.
+        \n\nI bagged a B.Sc in Electronic and Electrical Engineering from Obafemi Awolowo University, Ile-Ife, Nigeria.
+        \n\nWhen I am not coding, I would definitely be found chilling with family and friends.
+        \n\nFeel free to reach out to me to chat about tech or just to say hi.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
